@@ -14,7 +14,7 @@
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/MirrorCloneToggle/releases/latest)
 
-### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.weapon-slash) (FIX THIS LINK)
+### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.mirror-clone-toggle)
 </div>
 
 ## How it works
@@ -35,13 +35,7 @@
 ## Performance stats
 
 ```c++
-Constraints:        0
-Constraint Depth:   0
-Contact Receivers:  0
-Contact Senders:    0
 FX Animator Layers: 1
-Parameter Memory:   0 
-Phys Bones:         0
 ```
 
 ## Hierarchy layout
