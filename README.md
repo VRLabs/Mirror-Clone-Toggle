@@ -2,9 +2,9 @@
     
 # Mirror Clone Toggle
 
-[![Generic badge](https://img.shields.io/github/downloads/VRLabs/Weapon-Slash/total?label=Downloads)](https://github.com/VRLabs/Weapon-Slash/releases/latest)
-[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Weapon-Slash/blob/main/LICENSE)
-[![Generic badge](https://img.shields.io/badge/Unity-2022.3.22f1-lightblue?logo=Unity)](https://unity.com/releases/editor/whats-new/2022.3.22)
+[![Generic badge](https://img.shields.io/github/downloads/VRLabs/Mirror-Clone-Toggle/total?label=Downloads)](https://github.com/VRLabs/Mirror-Clone-Toggle/releases/latest)
+[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Mirror-Clone-Toggle/blob/main/LICENSE)
+[![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-lightblue?logo=Unity)](https://unity.com/releases/editor/whats-new/2019.4.31)
 [![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-lightblue.svg)](https://vrchat.com/home/download)
 
 [![Generic badge](https://img.shields.io/discord/706913824607043605?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.vrlabs.dev/)
@@ -12,7 +12,7 @@
     
 </b> Forces the mirror clone to be on when requested<br>
 
-### ⬇️ [Download Latest Version](https://github.com/VRLabs/MirrorCloneToggle/releases/latest)
+### ⬇️ [Download Latest Version](https://github.com/VRLabs/Mirror-Clone-Toggle/releases/latest)
 
 ### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.mirror-clone-toggle)
 </div>
@@ -47,12 +47,12 @@ MirrorCloneToggle
 
 ## Contributors
 
-* [WingmanDraws](https://github.com/WingmanDraws)</li>
-* [TohruTheDragon](https://github.com/fkrisi11)</li>
+* [WingmanDraws](https://github.com/WingmanDraws)
+* [TohruTheDragon](https://github.com/fkrisi11)
 
 ## License
 
-Mirror Clone Toggle is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Weapon-Slash/blob/main/LICENSE).
+Mirror Clone Toggle is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Mirror-Clone-Toggle/blob/main/LICENSE).
 
 ​
 
