@@ -1,29 +1,75 @@
-# MirrorCloneToggle
+<div align="center">
+    
+# Mirror Clone Toggle
+
+[![Generic badge](https://img.shields.io/github/downloads/VRLabs/Weapon-Slash/total?label=Downloads)](https://github.com/VRLabs/Weapon-Slash/releases/latest)
+[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Weapon-Slash/blob/main/LICENSE)
+[![Generic badge](https://img.shields.io/badge/Unity-2022.3.22f1-lightblue?logo=Unity)](https://unity.com/releases/editor/whats-new/2022.3.22)
+[![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-lightblue.svg)](https://vrchat.com/home/download)
+
+[![Generic badge](https://img.shields.io/discord/706913824607043605?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.vrlabs.dev/)
+[![Generic badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dvrlabs%26type%3Dpatrons&style=for-the-badge)](https://patreon.vrlabs.dev/)
+    
 </b> Forces the mirror clone to be on when requested<br>
-<br><br>
 
-<h2>How it works</h2>
+### ⬇️ [Download Latest Version](https://github.com/VRLabs/MirrorCloneToggle/releases/latest)
 
-There is a camera in the system, which when enabled, always renders the `MirrorReflection` layer to a 1x1 resolution render texture.<br>
-This is enough to get VRChat to enable the local Mirror Clone.
+### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.weapon-slash) (FIX THIS LINK)
+</div>
 
-<h2>Install guide</h2>
+## How it works
 
-- Drag and drop the `MirrorCloneToggle` prefab onto your avatar
-- Merge the `MirrorCloneToggle_FX` FX layer with your avatar's FX layer, using [Av3Manager](https://github.com/VRLabs/Avatars-3.0-Manager)
-- Merge the parameter list with your avatar's parameter list
-<br>
+* There is a camera in the system, which when enabled, always renders the `MirrorReflection` layer to a 1x1 resolution render texture.
+* This is enough to get VRChat to enable the local Mirror Clone.
 
-<h2>Performance stats</h2>
-- 1 local bool parameter (0 synced cost)<br>
-- 0 material slots (1 texture that doesn't get used in any material)
+## Install guide
 
-<h2>Hierarchy layout</h2>
-MirrorCloneToggle<br>
+* Drag and drop the `MirrorCloneToggle` prefab onto your avatar
+* Merge the `MirrorCloneToggle_FX` FX layer with your avatar's FX layer, using [Av3Manager](https://github.com/VRLabs/Avatars-3.0-Manager)
+* Merge the parameter list with your avatar's parameter list
+
+## How to use
+
+* Use a parameter driver to drive the `MirrorCloneToggle/Enabled` parameter, to turn the system on or off.
+
+## Performance stats
+
+```c++
+Constraints:        0
+Constraint Depth:   0
+Contact Receivers:  0
+Contact Senders:    0
+FX Animator Layers: 1
+Parameter Memory:   0 
+Phys Bones:         0
+```
+
+## Hierarchy layout
+
+```html
+MirrorCloneToggle
 |-MirrorCloneCamera
+```
 
-<h2>Contributors</h2>
-<ul>
-    <li>[WingmanDraws](https://github.com/WingmanDraws)</li>
-    <li>[TohruTheDragon](https://github.com/fkrisi11)</li>
-</ul>
+## Contributors
+
+* [WingmanDraws](https://github.com/WingmanDraws)</li>
+* [TohruTheDragon](https://github.com/fkrisi11)</li>
+
+## License
+
+Mirror Clone Toggle is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Weapon-Slash/blob/main/LICENSE).
+
+​
+
+<div align="center">
+
+[<img src="https://github.com/VRLabs/Resources/raw/main/Icons/VRLabs.png" width="50" height="50">](https://vrlabs.dev "VRLabs")
+<img src="https://github.com/VRLabs/Resources/raw/main/Icons/Empty.png" width="10">
+[<img src="https://github.com/VRLabs/Resources/raw/main/Icons/Discord.png" width="50" height="50">](https://discord.vrlabs.dev/ "VRLabs")
+<img src="https://github.com/VRLabs/Resources/raw/main/Icons/Empty.png" width="10">
+[<img src="https://github.com/VRLabs/Resources/raw/main/Icons/Patreon.png" width="50" height="50">](https://patreon.vrlabs.dev/ "VRLabs")
+<img src="https://github.com/VRLabs/Resources/raw/main/Icons/Empty.png" width="10">
+[<img src="https://github.com/VRLabs/Resources/raw/main/Icons/Twitter.png" width="50" height="50">](https://twitter.com/vrlabsdev "VRLabs")
+
+</div>
