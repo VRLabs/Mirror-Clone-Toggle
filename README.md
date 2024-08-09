@@ -10,12 +10,15 @@
 [![Generic badge](https://img.shields.io/discord/706913824607043605?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.vrlabs.dev/)
 [![Generic badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dvrlabs%26type%3Dpatrons&style=for-the-badge)](https://patreon.vrlabs.dev/)
     
-</b> Forces the mirror clone to be on when requested<br>
+A system for forcing the mirror clone to be enabled
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/Mirror-Clone-Toggle/releases/latest)
 
 ### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.mirror-clone-toggle)
+
 </div>
+
+---
 
 ## How it works
 
@@ -30,7 +33,7 @@
 
 ## How to use
 
-* Use a parameter driver to drive the `MirrorCloneToggle/Enabled` parameter, to turn the system on or off.
+* The `MirrorCloneToggle/Enabled` parameter is a bool, which enables the mirror clone when enabled.
 
 ## Performance stats
 
