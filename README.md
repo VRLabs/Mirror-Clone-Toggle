@@ -27,7 +27,7 @@ A system for forcing the mirror clone to be enabled
 
 ## Install guide
 
-https://github.com/user-attachments/assets/93651823-2b07-45d2-b9cf-87c1a2d8b63c\
+https://github.com/user-attachments/assets/93651823-2b07-45d2-b9cf-87c1a2d8b63c
 
 * Drag and drop the `MirrorCloneToggle` prefab onto your avatar
 * Merge the `MirrorCloneToggle_FX` FX layer with your avatar's FX layer, using [Av3Manager](https://github.com/VRLabs/Avatars-3.0-Manager)
