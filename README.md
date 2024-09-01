@@ -4,7 +4,7 @@
 
 [![Generic badge](https://img.shields.io/github/downloads/VRLabs/Mirror-Clone-Toggle/total?label=Downloads)](https://github.com/VRLabs/Mirror-Clone-Toggle/releases/latest)
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Mirror-Clone-Toggle/blob/main/LICENSE)
-![Generic badge](https://img.shields.io/badge/Quest-Incompatible-red?logo=Meta)](https://img.shields.io/badge/Quest-Incompatible-red?logo=Meta)
+[![Generic badge](https://img.shields.io/badge/Quest-Incompatible-red?logo=Meta)](https://img.shields.io/badge/Quest-Incompatible-red?logo=Meta)
 [![Generic badge](https://img.shields.io/badge/Unity-2022.3.22f1-lightblue?logo=Unity)](https://unity.com/releases/editor/whats-new/2022.3.22)
 [![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-lightblue.svg)](https://vrchat.com/home/download)
 
