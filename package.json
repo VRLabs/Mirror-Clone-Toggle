@@ -3,7 +3,7 @@
   "displayName": "Mirror Clone Toggle",
   "version": "1.0.999",
   "license": "MIT",
-  "unity": "2019.4",
+  "unity": "2022.3",
   "description": "A system for forcing the mirror clone to be enabled",
   "author": {
     "name": "VRLabs",
@@ -20,5 +20,6 @@
   "unityPackageDestinationFolderMetas": {
     "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
     "Assets/VRLabs/Mirror Clone Toggle": "e4dddd3555a991342961214ad86014b2"
-  }
+  },
+  "questCompatibility": "none"
 }
