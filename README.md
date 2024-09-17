@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 # Mirror Clone Toggle
 
 [![Generic badge](https://img.shields.io/github/downloads/VRLabs/Mirror-Clone-Toggle/total?label=Downloads)](https://github.com/VRLabs/Mirror-Clone-Toggle/releases/latest)
@@ -10,7 +10,7 @@
 
 [![Generic badge](https://img.shields.io/discord/706913824607043605?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.vrlabs.dev/)
 [![Generic badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dvrlabs%26type%3Dpatrons&style=for-the-badge)](https://patreon.vrlabs.dev/)
-    
+
 A system for forcing the mirror clone to be enabled
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/Mirror-Clone-Toggle/releases/latest)
@@ -30,8 +30,8 @@ A system for forcing the mirror clone to be enabled
 
 https://github.com/user-attachments/assets/93651823-2b07-45d2-b9cf-87c1a2d8b63c
 
-* Drag and drop the `MirrorCloneToggle` prefab onto your avatar
-* Merge the `MirrorCloneToggle_FX` FX layer with your avatar's FX layer, using [Av3Manager](https://github.com/VRLabs/Avatars-3.0-Manager)
+* Drag and drop the `Mirror Clone Toggle` prefab onto your avatar
+* Merge the `Mirror Clone Toggle FX` FX layer with your avatar's FX layer, using [Av3Manager](https://github.com/VRLabs/Avatars-3.0-Manager)
 * Merge the parameter list with your avatar's parameter list
 
 ## How to use
@@ -47,8 +47,8 @@ FX Animator Layers: 1
 ## Hierarchy layout
 
 ```html
-MirrorCloneToggle
-|-MirrorCloneCamera
+Mirror Clone Toggle
+|-Mirror Clone Camera
 ```
 
 ## Contributors
